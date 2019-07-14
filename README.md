@@ -1,3 +1,18 @@
+
+
+
+# Software Engineering Prep
+Computer Science fundamentals in object-oriented design
+Computer Science fundamentals in data structures
+Computer Science fundamentals in algorithm design, problem solving, and complexity analysis
+Proficiency in, at least, one modern programming language such as C, C++, Objective C, or Java
+
+# Other Company Specific Requirement:
+Ideally, familiarity with SAML, OIDC, SCIM, and OAuth 2.0
+Understanding of multi-threaded environment concepts
+
+
+
 # ML-Interview-Prep
 
 MLE Job Requirement Tools
